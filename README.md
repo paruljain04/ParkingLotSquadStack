@@ -11,6 +11,7 @@
 
 
   * To Run the Project
+  
       target folder contains exectubale jar "ParkingLotSquadStack-1.0-RELEASE.jar"
 
       To execute follow steps from the folder containing executable jar file:
