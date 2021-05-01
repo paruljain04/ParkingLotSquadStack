@@ -2,15 +2,15 @@
   --Uploaded assignment is maven project.
 
   * Project Environment:- 
-    --JDK 1.8.0
-    --maven-compiler-plugin 3.8.1
-    --maven-jar-plugin 2.4
+    JDK 1.8.0
+    maven-compiler-plugin 3.8.1
+    maven-jar-plugin 2.4
 
 
   * To Run the Project
-    --target folder contains exectubale jar "ParkingLotSquadStack-1.0-RELEASE.jar"
+    target folder contains exectubale jar "ParkingLotSquadStack-1.0-RELEASE.jar"
 
-    --To execute follow steps from the folder containing executable jar file:
+    To execute follow steps from the folder containing executable jar file:
       1. Execution by taking input from terminal, run command:-
           > java -jar ParkingLotSquadStack-1.0-RELEASE.jar
           Follow terminal instructions.
